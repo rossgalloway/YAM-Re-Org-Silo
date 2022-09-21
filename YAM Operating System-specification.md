@@ -1,9 +1,10 @@
 ---
-sidebar_label: 'Specification Doc 📝'
+sidebar_label: 'File Repository Specification Doc 📝'
 sidebar_position: 2
 ---
 
-# YAM Repository Website and File Storage - Specification Document 
+# YAM Repository Website and File Storage
+# Specification Document 
 
 | Info                  |                                      |
 | -----------------     | ---------------------------------    |

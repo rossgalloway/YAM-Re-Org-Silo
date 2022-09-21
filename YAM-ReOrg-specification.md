@@ -1,9 +1,10 @@
 ---
-sidebar_label: 'Specification Doc 📝'
+sidebar_label: 'Main Specification Doc 📝'
 sidebar_position: 1
 ---
 
-# YAM Re-Org - Specification Document
+# YAM Re-Org
+# Specification Document
 
 | Info                  |                                      |
 | -----------------     | ---------------------------------    |
